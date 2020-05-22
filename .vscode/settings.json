@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/fc5100f3-32bd-4d8f-a699-96c55bc05bc6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/bible-verses-service",
+    "appService.deploySubpath": ""
+}
